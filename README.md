@@ -1,7 +1,8 @@
 # replication
 Disguised as a variety of browsers and computers, used for reptiles, brush ticket software
 
-Sample Code
+Sample Code:
+
 from replication import replication
 
 proxy,header = replication.run(url,header =0,proxy=False,refresh=30)
